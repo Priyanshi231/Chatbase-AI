@@ -11,8 +11,8 @@ An AI-powered workspace built with the MERN Stack, Gemini API, file uploads, con
 - Gemini API
 - Tailwind CSS
 - Shadcn UI
-- LangChain (Later)
-- ChromaDB (Later)
+- LangChain
+- ChromaDB 
 
 ## Status
 
